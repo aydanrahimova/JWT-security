@@ -1,6 +1,6 @@
 package com.example.securityjwt.config;
 
-import com.example.securityjwt.auth.SecurityUrls;
+import com.example.securityjwt.config.enums.SecurityUrls;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

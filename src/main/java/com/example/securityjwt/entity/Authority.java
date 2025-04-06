@@ -1,6 +1,6 @@
 package com.example.securityjwt.entity;
 
-import com.example.securityjwt.auth.Role;
+import com.example.securityjwt.config.enums.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -4,7 +4,7 @@ import com.example.securityjwt.dto.request.UserRequest;
 import com.example.securityjwt.dto.response.UserResponse;
 import com.example.securityjwt.entity.User;
 import com.example.securityjwt.repository.UserRepository;
-import com.example.securityjwt.user.UserMapper;
+import com.example.securityjwt.mapper.UserMapper;
 import com.example.securityjwt.util.AuthHelper;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;

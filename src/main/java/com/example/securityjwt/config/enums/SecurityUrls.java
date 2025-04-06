@@ -1,4 +1,4 @@
-package com.example.securityjwt.auth;
+package com.example.securityjwt.config.enums;
 
 import lombok.Getter;
 

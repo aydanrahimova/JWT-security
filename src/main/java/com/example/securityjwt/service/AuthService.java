@@ -1,6 +1,6 @@
 package com.example.securityjwt.service;
 
-import com.example.securityjwt.auth.Role;
+import com.example.securityjwt.config.enums.Role;
 import com.example.securityjwt.dto.request.AuthRequest;
 import com.example.securityjwt.dto.response.AuthResponse;
 import com.example.securityjwt.dto.request.RefreshTokenRequest;

@@ -1,4 +1,4 @@
-package com.example.securityjwt.user;
+package com.example.securityjwt.mapper;
 
 import com.example.securityjwt.dto.request.UserRequest;
 import com.example.securityjwt.dto.response.UserResponse;
